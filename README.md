@@ -36,5 +36,4 @@ The main objectives of this project were to:
 
 ---
 
-## 🗂️ Project Structure
 
